@@ -2,4 +2,4 @@
 Introduction in Mixed Reality
 <h1>LAB 3</h1>
 <h2>Basketball Throw VR Game</h2>
-<img src="./Lab3/Presentation.gif" alt="Presentation GIF" width="500" height="600">
+<img src="./Lab3/Presentation.gif" alt="Presentation GIF" width="800" height="500">
